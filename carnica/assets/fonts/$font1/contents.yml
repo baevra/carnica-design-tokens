@@ -1,0 +1,19 @@
+- name: BeelineSans-Bold
+  family: Beeline Sans
+  weight: Bold
+  filename: BeelineSans-Bold.otf
+
+- name: BeelineSans-Black
+  family: Beeline Sans
+  weight: Black
+  filename: BeelineSans-Black.otf
+
+- name: BeelineSans-Medium
+  family: Beeline Sans
+  weight: Medium
+  filename: BeelineSans-Medium.otf
+
+- name: BeelineSans-Regular
+  family: Beeline Sans
+  weight: Regular
+  filename: BeelineSans-Regular.otf

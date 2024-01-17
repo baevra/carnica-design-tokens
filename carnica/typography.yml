@@ -1,5 +1,4 @@
 - name: $display.extra_large
-  description: ''
   value:
     default:
       font: $font1.medium
@@ -7,7 +6,6 @@
       leading: 76
       tracking: 0
 - name: $display.large
-  description: ''
   value:
     default:
       font: $font1.medium
@@ -15,7 +13,6 @@
       leading: 64
       tracking: 0
 - name: $display.small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -23,7 +20,6 @@
       leading: 50
       tracking: 0
 - name: $display.extra_small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -31,7 +27,6 @@
       leading: 40
       tracking: 0
 - name: $headline.small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -39,7 +34,6 @@
       leading: 28
       tracking: 0
 - name: $headline.extra_small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -47,7 +41,6 @@
       leading: 22
       tracking: 0
 - name: $body_tight.medium
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -55,7 +48,6 @@
       leading: 24
       tracking: 0
 - name: $body_tight.small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -63,7 +55,6 @@
       leading: 20
       tracking: 0
 - name: $body_tight.extra_small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -71,7 +62,6 @@
       leading: 16
       tracking: 0
 - name: $body_tight.accent.medium
-  description: ''
   value:
     default:
       font: $font1.medium
@@ -79,7 +69,6 @@
       leading: 24
       tracking: 0
 - name: $body_tight.accent.small
-  description: ''
   value:
     default:
       font: $font1.medium
@@ -87,7 +76,6 @@
       leading: 20
       tracking: 0
 - name: $body_tight.accent.extra_small
-  description: ''
   value:
     default:
       font: $font1.medium
@@ -95,7 +83,6 @@
       leading: 16
       tracking: 0
 - name: $body_paragraph.medium
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -103,7 +90,6 @@
       leading: 26
       tracking: 0
 - name: $body_paragraph.small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -111,7 +97,6 @@
       leading: 22
       tracking: 0
 - name: $body_paragraph.extra_small
-  description: ''
   value:
     default:
       font: $font1.regular
@@ -119,7 +104,6 @@
       leading: 18
       tracking: 0
 - name: $body_paragraph.accent.medium
-  description: ''
   value:
     default:
       font: $font1.medium
@@ -127,7 +111,6 @@
       leading: 26
       tracking: 0
 - name: $body_paragraph.accent.small
-  description: ''
   value:
     default:
       font: $font1.medium
@@ -135,7 +118,6 @@
       leading: 22
       tracking: 0
 - name: $body_paragraph.accent.extra_small
-  description: ''
   value:
     default:
       font: $font1.medium
