@@ -12,48 +12,60 @@
     dark: '#f4b807'
 - name: $success.primary
   value:
-    light: '#05882a'
-    dark: '#00a55e'
+    light: '#00a55e'
+    dark: '#00c06d'
 - name: $success.secondary
   value:
-    light: '#00a55e'
-    dark: '#00c06b'
+    light: '#00c06d'
+    dark: '#2bd98e'
 - name: $success.tertiary
   value:
-    light: '#19772b'
-    dark: '#05882a'
+    light: '#00854c'
+    dark: '#00a55e'
+- name: $success.primary_invert
+  value:
+    light: '#00c06d'
+    dark: '#00a55e'
+- name: $success.secondary_invert
+  value:
+    light: '#2bd98e'
+    dark: '#00c06d'
+- name: $success.tertiary_invert
+  value:
+    light: '#00a55e'
+    dark: '#00854c'
 - name: $error.primary
   value:
-    light: '#ff570f'
-    dark: '#ff570f'
+    light: '#f84a00'
+    dark: '#f84a00'
 - name: $error.secondary
   value:
-    light: '#ff8b5a'
-    dark: '#ff8b5a'
+    light: '#ff6524'
+    dark: '#ff6524'
 - name: $error.tertiary
   value:
-    light: '#db4612'
-    dark: '#db4612'
+    light: '#b83700'
+    dark: '#b83700'
 - name: $text.primary
   value:
-    light: '#0f171e'
+    light: '#28303f'
     dark: '#ffffff'
 - name: $text.secondary
   value:
-    light: '#5e6877'
-    dark: '#c2c6cb'
+    light: '#6e788a'
+    dark: '#c8ced9'
 - name: $text.tertiary
   value:
-    light: '#c2c6cb'
-    dark: '#4d5565'
+    light: '#98a0b0'
+    dark: '#6e788a'
 - name: $text.success
   value:
-    light: '#05882a'
-    dark: '#00a55e'
+    light: '#00a55e'
+    dark: '#00c06d'
 - name: $text.error
   value:
-    light: '#ff570f'
-    dark: '#ff570f'
+    light: '#f84a00'
+    dark: '#f84a00'
 - name: $text.link
   value:
     light: '#2770ef'
@@ -61,35 +73,39 @@
 - name: $text.primary_invert
   value:
     light: '#ffffff'
-    dark: '#0f171e'
+    dark: '#28303f'
 - name: $text.secondary_invert
   value:
-    light: '#c2c6cb'
-    dark: '#5e6877'
+    light: '#c8ced9'
+    dark: '#6e788a'
 - name: $text.tertiary_invert
   value:
-    light: '#4d5565'
-    dark: '#c2c6cb'
+    light: '#6e788a'
+    dark: '#98a0b0'
 - name: $icon.primary
   value:
-    light: '#0f171e'
+    light: '#28303f'
     dark: '#ffffff'
 - name: $icon.secondary
   value:
-    light: '#5e6877'
-    dark: '#c2c6cb'
+    light: '#6e788a'
+    dark: '#c8ced9'
 - name: $icon.tertiary
   value:
-    light: '#c2c6cb'
-    dark: '#4d5565'
+    light: '#98a0b0'
+    dark: '#98a0b0'
+- name: $icon.disabled
+  value:
+    light: '#afb7c4'
+    dark: '#6e788a'
 - name: $icon.success
   value:
-    light: '#05882a'
-    dark: '#00a55e'
+    light: '#00a55e'
+    dark: '#00c06d'
 - name: $icon.error
   value:
-    light: '#ff570f'
-    dark: '#ff570f'
+    light: '#f84a00'
+    dark: '#f84a00'
 - name: $icon.link
   value:
     light: '#2770ef'
@@ -97,19 +113,23 @@
 - name: $icon.primary_invert
   value:
     light: '#ffffff'
-    dark: '#0f171e'
+    dark: '#28303f'
 - name: $icon.secondary_invert
   value:
-    light: '#c2c6cb'
-    dark: '#5e6877'
+    light: '#c8ced9'
+    dark: '#6e788a'
 - name: $icon.tertiary_invert
   value:
-    light: '#4d5565'
-    dark: '#c2c6cb'
+    light: '#98a0b0'
+    dark: '#98a0b0'
+- name: $icon.disabled_invert
+  value:
+    light: '#6e788a'
+    dark: '#afb7c4'
 - name: $accent.01
   value:
-    light: '#05882a'
-    dark: '#00a55e'
+    light: '#00a55e'
+    dark: '#00c06d'
 - name: $accent.02
   value:
     light: '#008473'
@@ -132,16 +152,16 @@
     dark: '#ff5b5b'
 - name: $accent.07
   value:
-    light: '#ff570f'
-    dark: '#ff570f'
+    light: '#f84a00'
+    dark: '#f84a00'
 - name: $accent.08
   value:
     light: '#ffc800'
     dark: '#ffc800'
 - name: $surface.01
   value:
-    light: '#d3f6dd'
-    dark: '#0e3515'
+    light: '#b2ffde'
+    dark: '#004a2a'
 - name: $surface.02
   value:
     light: '#d3f6ef'
@@ -164,72 +184,72 @@
     dark: '#610a0a'
 - name: $surface.07
   value:
-    light: '#fbeae3'
-    dark: '#53200e'
+    light: '#ffd8c7'
+    dark: '#661e00'
 - name: $surface.08
   value:
     light: '#ffebbb'
     dark: '#7a3a00'
 - name: $background.primary
   value:
-    light: '#f1f5f8'
-    dark: '#0f171e'
+    light: '#f0f2f5'
+    dark: '#191c22'
 - name: $background.secondary
   value:
     light: '#ffffff'
-    dark: '#1a2228'
+    dark: '#222731'
 - name: $background.tertiary
   value:
-    light: '#dbdee2'
-    dark: '#262c36'
+    light: '#e2e6ed'
+    dark: '#28303f'
 - name: $background.overlay
   value:
-    light: '#0f171eb3'
-    dark: '#0f171ecc'
+    light: '#191c22b3'
+    dark: '#000000cc'
 - name: $background.error
   value:
-    light: '#fff1f1'
-    dark: '#300000'
+    light: '#ffbea3'
+    dark: '#4d1700'
 - name: $background.primary_invert
   value:
-    light: '#0f171e'
-    dark: '#f1f5f8'
+    light: '#191c22'
+    dark: '#f0f2f5'
 - name: $background.secondary_invert
   value:
-    light: '#262c36'
+    light: '#222731'
     dark: '#ffffff'
 - name: $background.tertiary_invert
   value:
-    light: '#4d5565'
-    dark: '#dbdee2'
+    light: '#28303f'
+    dark: '#e2e6ed'
 - name: $background.overlay_invert
   value:
-    light: '#f1f5f880'
-    dark: '#dbdee266'
+    light: '#000000cc'
+    dark: '#191c22b3'
 - name: $border.primary
   value:
-    light: '#0f171e'
+    light: '#191c22'
     dark: '#ffffff'
 - name: $border.secondary
   value:
-    light: '#dbdee2'
-    dark: '#262c36'
+    light: '#c8ced9'
+    dark: '#323c4d'
 - name: $border.error
   value:
-    light: '#ff570f'
-    dark: '#ff570f'
+    light: '#f84a00'
+    dark: '#f84a00'
 - name: $border.primary_invert
   value:
     light: '#ffffff'
-    dark: '#0f171e'
+    dark: '#191c22'
 - name: $border.secondary_invert
   value:
-    light: '#262c36'
-    dark: '#dbdee2'
+    light: '#323c4d'
+    dark: '#c8ced9'
 - name: $constant.01
   value:
-    light: '#0f171e'
-    dark: '#0f171e'
+    light: '#28303f'
+    dark: '#28303f'
 - name: $constant.02
   value:
     light: '#ffffff'

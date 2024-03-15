@@ -1,29 +1,36 @@
-- name: $display.extra_large
-  value:
-    default:
-      font: $font1.medium
-      size: 60
-      lineHeight: 76
-      letterSpacing: 0
 - name: $display.large
   value:
     default:
-      font: $font1.medium
-      size: 52
-      lineHeight: 64
+      font: $font1.regular
+      size: 56
+      lineHeight: 66
+      letterSpacing: 0
+- name: $display.medium
+  value:
+    default:
+      font: $font1.regular
+      size: 40
+      lineHeight: 52
       letterSpacing: 0
 - name: $display.small
   value:
     default:
       font: $font1.regular
-      size: 40
-      lineHeight: 50
+      size: 32
+      lineHeight: 42
       letterSpacing: 0
-- name: $display.extra_small
+- name: $display.extrasmall
   value:
     default:
       font: $font1.regular
-      size: 32
+      size: 16
+      lineHeight: 22
+      letterSpacing: 0
+- name: $headline.medium
+  value:
+    default:
+      font: $font1.regular
+      size: 40
       lineHeight: 40
       letterSpacing: 0
 - name: $headline.small
@@ -31,96 +38,75 @@
     default:
       font: $font1.regular
       size: 24
+      lineHeight: 24
+      letterSpacing: 0
+- name: $body.large
+  value:
+    default:
+      font: $font1.regular
+      size: 24
       lineHeight: 28
       letterSpacing: 0
-- name: $headline.extra_small
+- name: $body.medium
   value:
     default:
       font: $font1.regular
-      size: 18
-      lineHeight: 22
+      size: 20
+      lineHeight: 26
       letterSpacing: 0
-- name: $body_tight.medium
-  value:
-    default:
-      font: $font1.regular
-      size: 18
-      lineHeight: 24
-      letterSpacing: 0
-- name: $body_tight.small
+- name: $body.small
   value:
     default:
       font: $font1.regular
       size: 16
       lineHeight: 20
       letterSpacing: 0
-- name: $body_tight.extra_small
-  value:
-    default:
-      font: $font1.regular
-      size: 12
-      lineHeight: 16
-      letterSpacing: 0
-- name: $body_tight.accent.medium
+- name: $body.accent.large
   value:
     default:
       font: $font1.medium
-      size: 18
-      lineHeight: 24
+      size: 24
+      lineHeight: 28
       letterSpacing: 0
-- name: $body_tight.accent.small
+- name: $body.accent.medium
+  value:
+    default:
+      font: $font1.medium
+      size: 20
+      lineHeight: 26
+      letterSpacing: 0
+- name: $body.accent.small
   value:
     default:
       font: $font1.medium
       size: 16
       lineHeight: 20
       letterSpacing: 0
-- name: $body_tight.accent.extra_small
+- name: $body.paragraph.large
+  value:
+    default:
+      font: $font1.regular
+      size: 24
+      lineHeight: 30
+      letterSpacing: 0
+- name: $body.paragraph.small
+  value:
+    default:
+      font: $font1.regular
+      size: 16
+      lineHeight: 22
+      letterSpacing: 0
+- name: $caption.medium
+  value:
+    default:
+      font: $font1.regular
+      size: 12
+      lineHeight: 16
+      letterSpacing: 0
+- name: $caption.accent.medium
   value:
     default:
       font: $font1.medium
       size: 12
       lineHeight: 16
-      letterSpacing: 0
-- name: $body_paragraph.medium
-  value:
-    default:
-      font: $font1.regular
-      size: 18
-      lineHeight: 26
-      letterSpacing: 0
-- name: $body_paragraph.small
-  value:
-    default:
-      font: $font1.regular
-      size: 16
-      lineHeight: 22
-      letterSpacing: 0
-- name: $body_paragraph.extra_small
-  value:
-    default:
-      font: $font1.regular
-      size: 12
-      lineHeight: 18
-      letterSpacing: 0
-- name: $body_paragraph.accent.medium
-  value:
-    default:
-      font: $font1.medium
-      size: 18
-      lineHeight: 26
-      letterSpacing: 0
-- name: $body_paragraph.accent.small
-  value:
-    default:
-      font: $font1.medium
-      size: 16
-      lineHeight: 22
-      letterSpacing: 0
-- name: $body_paragraph.accent.extra_small
-  value:
-    default:
-      font: $font1.medium
-      size: 12
-      lineHeight: 18
       letterSpacing: 0
