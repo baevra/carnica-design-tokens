@@ -19,7 +19,7 @@
       size: 32
       lineHeight: 42
       letterSpacing: 0
-- name: $display.extrasmall
+- name: $display.extra_small
   value:
     default:
       font: $font1.regular
