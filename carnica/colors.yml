@@ -13,27 +13,15 @@
 - name: $success.primary
   value:
     light: '#00a55e'
-    dark: '#00c06d'
+    dark: '#00A55E'
 - name: $success.secondary
   value:
     light: '#00c06d'
-    dark: '#2bd98e'
+    dark: '#00C06D'
 - name: $success.tertiary
   value:
     light: '#00854c'
-    dark: '#00a55e'
-- name: $success.primary_invert
-  value:
-    light: '#00c06d'
-    dark: '#00a55e'
-- name: $success.secondary_invert
-  value:
-    light: '#2bd98e'
-    dark: '#00c06d'
-- name: $success.tertiary_invert
-  value:
-    light: '#00a55e'
-    dark: '#00854c'
+    dark: '#008F51'
 - name: $error.primary
   value:
     light: '#f84a00'
@@ -132,24 +120,24 @@
     dark: '#00c06d'
 - name: $accent.02
   value:
-    light: '#008473'
-    dark: '#00a291'
+    light: '#00A894'
+    dark: '#00B8A2'
 - name: $accent.03
   value:
-    light: '#2770ef'
-    dark: '#2892fa'
+    light: '#1086F9'
+    dark: '#2E94FA'
 - name: $accent.04
   value:
-    light: '#8561ec'
-    dark: '#a17aff'
+    light: '#7E56EB'
+    dark: '#8561EC'
 - name: $accent.05
   value:
-    light: '#e12a8c'
-    dark: '#ff4ea6'
+    light: '#E52E90'
+    dark: '#E7409A'
 - name: $accent.06
   value:
-    light: '#ec3030'
-    dark: '#ff5b5b'
+    light: '#F43434'
+    dark: '#F54747'
 - name: $accent.07
   value:
     light: '#f84a00'
@@ -160,28 +148,28 @@
     dark: '#ffc800'
 - name: $surface.01
   value:
-    light: '#b2ffde'
+    light: '#CBF6E3'
     dark: '#004a2a'
 - name: $surface.02
   value:
-    light: '#d3f6ef'
-    dark: '#09342f'
+    light: '#BFF8F1'
+    dark: '#00473F'
 - name: $surface.03
   value:
-    light: '#e5eefc'
-    dark: '#0d2b5e'
+    light: '#D7EBFE'
+    dark: '#03386D'
 - name: $surface.04
   value:
-    light: '#f0ebf9'
-    dark: '#34275e'
+    light: '#E7DFFB'
+    dark: '#371F7A'
 - name: $surface.05
   value:
-    light: '#ffe5f5'
-    dark: '#530e35'
+    light: '#FBDBEC'
+    dark: '#6D0D41'
 - name: $surface.06
   value:
-    light: '#ffe7e7'
-    dark: '#610a0a'
+    light: '#FDD8D8'
+    dark: '#791515'
 - name: $surface.07
   value:
     light: '#ffd8c7'
@@ -192,7 +180,7 @@
     dark: '#7a3a00'
 - name: $background.primary
   value:
-    light: '#f0f2f5'
+    light: '#F0F3F5'
     dark: '#191c22'
 - name: $background.secondary
   value:
@@ -213,7 +201,7 @@
 - name: $background.primary_invert
   value:
     light: '#191c22'
-    dark: '#f0f2f5'
+    dark: '#F0F3F5'
 - name: $background.secondary_invert
   value:
     light: '#222731'
@@ -232,8 +220,8 @@
     dark: '#ffffff'
 - name: $border.secondary
   value:
-    light: '#c8ced9'
-    dark: '#323c4d'
+    light: '#E2E6ED'
+    dark: '#28303F'
 - name: $border.error
   value:
     light: '#f84a00'
@@ -244,8 +232,8 @@
     dark: '#191c22'
 - name: $border.secondary_invert
   value:
-    light: '#323c4d'
-    dark: '#c8ced9'
+    light: '#28303F'
+    dark: '#E2E6ED'
 - name: $constant.01
   value:
     light: '#28303f'
