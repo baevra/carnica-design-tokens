@@ -56,8 +56,8 @@
     dark: '#f84a00'
 - name: $text.link
   value:
-    light: '#2770ef'
-    dark: '#2892fa'
+    light: '#1086F9'
+    dark: '#2E94FA'
 - name: $text.primary_invert
   value:
     light: '#ffffff'
@@ -96,8 +96,8 @@
     dark: '#f84a00'
 - name: $icon.link
   value:
-    light: '#2770ef'
-    dark: '#2892fa'
+    light: '#1086F9'
+    dark: '#2E94FA'
 - name: $icon.primary_invert
   value:
     light: '#ffffff'
