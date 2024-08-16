@@ -87,6 +87,13 @@
     default:
       font: $font1.regular
       size: 24
+      lineHeight: 36
+      letterSpacing: 0
+- name: $body.paragraph.medium
+  value:
+    default:
+      font: $font1.regular
+      size: 20
       lineHeight: 30
       letterSpacing: 0
 - name: $body.paragraph.small
@@ -94,7 +101,7 @@
     default:
       font: $font1.regular
       size: 16
-      lineHeight: 22
+      lineHeight: 24
       letterSpacing: 0
 - name: $caption.medium
   value:
