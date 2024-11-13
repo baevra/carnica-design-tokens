@@ -192,7 +192,7 @@
     dark: '#28303f'
 - name: $background.overlay
   value:
-    light: '#191c22b3'
+    light: '#191c22e6'
     dark: '#000000cc'
 - name: $background.error
   value:
@@ -213,7 +213,7 @@
 - name: $background.overlay_invert
   value:
     light: '#000000cc'
-    dark: '#191c22b3'
+    dark: '#191c22e6'
 - name: $border.primary
   value:
     light: '#191c22'
