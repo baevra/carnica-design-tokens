@@ -1,0 +1,460 @@
+- name: $background.primary
+  description: ''
+  value:
+    light: '#f0f3f5'
+    dark: '#181c23'
+- name: $background.secondary
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#202632'
+- name: $background.tertiary
+  description: ''
+  value:
+    light: '#f0f3f5'
+    dark: '#28303f'
+- name: $background.additional01
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#77849d1f'
+- name: $background.additional02
+  description: ''
+  value:
+    light: '#77849d1f'
+    dark: '#77849d1f'
+- name: $background.primary_fake_invert
+  description: ''
+  value:
+    light: '#181c23'
+    dark: '#181c23'
+- name: $background.secondary_fake_invert
+  description: ''
+  value:
+    light: '#202632'
+    dark: '#202632'
+- name: $background.tertiary_fake_invert
+  description: ''
+  value:
+    light: '#28303f'
+    dark: '#28303f'
+- name: $background.additional_fake_invert
+  description: ''
+  value:
+    light: '#77849d1f'
+    dark: '#77849d1f'
+- name: $elements.primary
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#202632'
+- name: $elements.secondary
+  description: ''
+  value:
+    light: '#f0f3f5'
+    dark: '#28303f'
+- name: $elements.tertiary
+  description: ''
+  value:
+    light: '#e2e6ed'
+    dark: '#28303f'
+- name: $elements.disabled
+  description: ''
+  value:
+    light: '#e2e6ed'
+    dark: '#323c4e'
+- name: $elements.additional01
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#77849d1f'
+- name: $elements.additional02
+  description: ''
+  value:
+    light: '#77849d1f'
+    dark: '#77849d1f'
+- name: $elements.active
+  description: ''
+  value:
+    light: '#202632'
+    dark: '#ffffff'
+- name: $elements.primary_fake_invert
+  description: ''
+  value:
+    light: '#202632'
+    dark: '#202632'
+- name: $elements.secondary_fake_invert
+  description: ''
+  value:
+    light: '#28303f'
+    dark: '#28303f'
+- name: $elements.tertiary_fake_invert
+  description: ''
+  value:
+    light: '#28303f'
+    dark: '#28303f'
+- name: $elements.disabled_fake_invert
+  description: ''
+  value:
+    light: '#323c4e'
+    dark: '#323c4e'
+- name: $elements.additional01_fake_invert
+  description: ''
+  value:
+    light: '#77849d1f'
+    dark: '#77849d1f'
+- name: $elements.additional02_fake_invert
+  description: ''
+  value:
+    light: '#77849d1f'
+    dark: '#77849d1f'
+- name: $elements.active_fake_invert
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#ffffff'
+- name: $content.primary
+  description: ''
+  value:
+    light: '#28303f'
+    dark: '#ffffff'
+- name: $content.secondary
+  description: ''
+  value:
+    light: '#77849d'
+    dark: '#a5aec0'
+- name: $content.tertiary
+  description: ''
+  value:
+    light: '#8e99af'
+    dark: '#77849d'
+- name: $content.disabled
+  description: ''
+  value:
+    light: '#a5aec0'
+    dark: '#58657e'
+- name: $content.primary_fake_invert
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#ffffff'
+- name: $content.secondary_fake_invert
+  description: ''
+  value:
+    light: '#a5aec0'
+    dark: '#a5aec0'
+- name: $content.tertiary_fake_invert
+  description: ''
+  value:
+    light: '#77849d'
+    dark: '#77849d'
+- name: $content.disabled_fake_invert
+  description: ''
+  value:
+    light: '#58657e'
+    dark: '#58657e'
+- name: $content.primary100_invert
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#28303f'
+- name: $content.secondary100_invert
+  description: ''
+  value:
+    light: '#a5aec0'
+    dark: '#77849d'
+- name: $content.tertiary100_invert
+  description: ''
+  value:
+    light: '#77849d'
+    dark: '#8e99af'
+- name: $content.disabled100_invert
+  description: ''
+  value:
+    light: '#58657e'
+    dark: '#a5aec0'
+- name: $overlay.m
+  description: затемнение контента picker
+  value:
+    light: '#f0f3f5cc'
+    dark: '#181c23cc'
+- name: $overlay.s
+  description: фон tabbar, navbar
+  value:
+    light: '#f0f3f54d'
+    dark: '#181c234d'
+- name: $border.primary
+  description: ''
+  value:
+    light: '#c3c9d5'
+    dark: '#58657e'
+- name: $border.secondary
+  description: ''
+  value:
+    light: '#e2e6ed'
+    dark: '#3c475d'
+- name: $border.primary_fake_invert
+  description: ''
+  value:
+    light: '#58657e'
+    dark: '#58657e'
+- name: $border.secondary_fake_invert
+  description: ''
+  value:
+    light: '#3c475d'
+    dark: '#3c475d'
+- name: $border.primary100_invert
+  description: ''
+  value:
+    light: '#58657e'
+    dark: '#c3c9d5'
+- name: $border.secondary100_invert
+  description: ''
+  value:
+    light: '#3c475d'
+    dark: '#e2e6ed'
+- name: $constant.light
+  description: ''
+  value:
+    light: '#ffffff'
+    dark: '#ffffff'
+- name: $constant.dark
+  description: ''
+  value:
+    light: '#28303f'
+    dark: '#28303f'
+- name: $brand.primary
+  description: ''
+  value:
+    light: '#ffc800'
+    dark: '#ffc800'
+- name: $brand.secondary
+  description: ''
+  value:
+    light: '#ffd546'
+    dark: '#ffd546'
+- name: $brand.tertiary
+  description: ''
+  value:
+    light: '#f4b807'
+    dark: '#f4b807'
+- name: $success.primary
+  description: ''
+  value:
+    light: '#00a55e'
+    dark: '#00a55e'
+- name: $success.secondary
+  description: ''
+  value:
+    light: '#00c06d'
+    dark: '#00c06d'
+- name: $success.tertiary
+  description: ''
+  value:
+    light: '#008f51'
+    dark: '#008f51'
+- name: $error.primary
+  description: ''
+  value:
+    light: '#f84a00'
+    dark: '#f84a00'
+- name: $link.primary
+  description: ''
+  value:
+    light: '#1086f9'
+    dark: '#1086f9'
+- name: $error.secondary
+  description: ''
+  value:
+    light: '#ff6524'
+    dark: '#ff6524'
+- name: $error.tertiary
+  description: ''
+  value:
+    light: '#b83700'
+    dark: '#b83700'
+- name: $link.secondary
+  description: ''
+  value:
+    light: '#2e94fa'
+    dark: '#2e94fa'
+- name: $link.tertiary
+  description: ''
+  value:
+    light: '#0670db'
+    dark: '#0670db'
+- name: $surface.01_green
+  description: ''
+  value:
+    light: '#cbf6e3'
+    dark: '#cbf6e3'
+- name: $surface.02_teal
+  description: ''
+  value:
+    light: '#bff8f1'
+    dark: '#bff8f1'
+- name: $surface.03_blue
+  description: ''
+  value:
+    light: '#d7ebfe'
+    dark: '#d7ebfe'
+- name: $surface.04_violet
+  description: ''
+  value:
+    light: '#e7dffb'
+    dark: '#e7dffb'
+- name: $surface.05_magenta
+  description: ''
+  value:
+    light: '#fbdbec'
+    dark: '#fbdbec'
+- name: $surface.06_red
+  description: ''
+  value:
+    light: '#fdd8d8'
+    dark: '#fdd8d8'
+- name: $surface.07_orange
+  description: ''
+  value:
+    light: '#ffd8c7'
+    dark: '#ffd8c7'
+- name: $surface.08_yellow
+  description: ''
+  value:
+    light: '#ffe999'
+    dark: '#ffe999'
+- name: $accent.01_green_primary
+  description: ''
+  value:
+    light: '#00a55e'
+    dark: '#00a55e'
+- name: $accent.01_green_secondary
+  description: ''
+  value:
+    light: '#00a55e70'
+    dark: '#00a55e70'
+- name: $accent.01_green_tertiary
+  description: ''
+  value:
+    light: '#00a55e3d'
+    dark: '#00a55e3d'
+- name: $accent.02_teal_primary
+  description: ''
+  value:
+    light: '#00a894'
+    dark: '#00a894'
+- name: $accent.02_teal_secondary
+  description: ''
+  value:
+    light: '#00a89470'
+    dark: '#00a89470'
+- name: $accent.02_teal_tertiary
+  description: ''
+  value:
+    light: '#00a8943d'
+    dark: '#00a8943d'
+- name: $accent.03_blue_primary
+  description: ''
+  value:
+    light: '#1086f9'
+    dark: '#1086f9'
+- name: $accent.03_blue_secondary
+  description: ''
+  value:
+    light: '#1086f970'
+    dark: '#1086f970'
+- name: $accent.03_blue_tertiary
+  description: ''
+  value:
+    light: '#1086f93d'
+    dark: '#1086f93d'
+- name: $accent.04_violet_primary
+  description: ''
+  value:
+    light: '#7e56eb'
+    dark: '#7e56eb'
+- name: $accent.04_violet_secondary
+  description: ''
+  value:
+    light: '#7e56eb70'
+    dark: '#7e56eb70'
+- name: $accent.04_violet_tertiary
+  description: ''
+  value:
+    light: '#7e56eb3d'
+    dark: '#7e56eb3d'
+- name: $accent.05_magenta_primary
+  description: ''
+  value:
+    light: '#e52e90'
+    dark: '#e52e90'
+- name: $accent.05_magenta_secondary
+  description: ''
+  value:
+    light: '#e52e9070'
+    dark: '#e52e9070'
+- name: $accent.05_magenta_tertiary
+  description: ''
+  value:
+    light: '#e52e903d'
+    dark: '#e52e903d'
+- name: $accent.06_red_primary
+  description: ''
+  value:
+    light: '#f43434'
+    dark: '#f43434'
+- name: $accent.06_red_secondary
+  description: ''
+  value:
+    light: '#f4343470'
+    dark: '#f4343470'
+- name: $accent.06_red_tertiary
+  description: ''
+  value:
+    light: '#f434343d'
+    dark: '#f434343d'
+- name: $accent.07_orange_primary
+  description: ''
+  value:
+    light: '#f84a00'
+    dark: '#f84a00'
+- name: $accent.07_orange_secondary
+  description: ''
+  value:
+    light: '#f84a0070'
+    dark: '#f84a0070'
+- name: $accent.07_orange_tertiary
+  description: ''
+  value:
+    light: '#f84a003d'
+    dark: '#f84a003d'
+- name: $accent.08_yellow_primary
+  description: ''
+  value:
+    light: '#ffc800'
+    dark: '#ffc800'
+- name: $accent.08_yellow_secondary
+  description: ''
+  value:
+    light: '#ffc80070'
+    dark: '#ffc80070'
+- name: $accent.08_yellow_tertiary
+  description: ''
+  value:
+    light: '#ffc8003d'
+    dark: '#ffc8003d'
+- name: $overlay.xl
+  description: затемнение фона модалок app
+  value:
+    light: '#181c23e6'
+    dark: '#000000cc'
+- name: $overlay.l
+  description: "ghost кнопки, adtag, затемнение контента за\_модалками web"
+  value:
+    light: '#28303f33'
+    dark: '#28303f33'
+- name: $overlay.xs
+  description: ghost кнопки
+  value:
+    light: '#ffffff1a'
+    dark: '#ffffff1a'
