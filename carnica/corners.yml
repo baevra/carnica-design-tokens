@@ -1,0 +1,23 @@
+- name: $c.100
+  value: 4
+
+- name: $c.200
+  value: 8
+
+- name: $c.300
+  value: 12
+
+- name: $c.400
+  value: 16
+
+- name: $c.600
+  value: 24
+
+- name: $c.800
+  value: 32
+
+- name: $c.1000
+  value: 40
+
+- name: $c.infinite
+  value: 0

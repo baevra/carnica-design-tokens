@@ -1,0 +1,35 @@
+- name: $s.200
+  value: 8
+
+- name: $s.300
+  value: 12
+
+- name: $s.400
+  value: 16
+
+- name: $s.500
+  value: 20
+
+- name: $s.600
+  value: 24
+
+- name: $s.800
+  value: 32
+
+- name: $s.1000
+  value: 40
+
+- name: $s.1100
+  value: 44
+
+- name: $s.1200
+  value: 48
+
+- name: $s.1400
+  value: 56
+
+- name: $s.1600
+  value: 64
+
+- name: $s.2400
+  value: 96

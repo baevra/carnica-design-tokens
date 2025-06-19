@@ -1,0 +1,62 @@
+- name: $sn400
+  value: -16
+
+- name: $sn300
+  value: -12
+
+- name: $sn250
+  value: -10
+
+- name: $sn200
+  value: -8
+
+- name: $sn100
+  value: -4
+
+- name: $s0
+  value: 0
+
+- name: $s50
+  value: 2
+
+- name: $s100
+  value: 4
+
+- name: $s150
+  value: 6
+
+- name: $s200
+  value: 8
+
+- name: $s250
+  value: 10
+
+- name: $s300
+  value: 12
+
+- name: $s400
+  value: 16
+
+- name: $s450
+  value: 18
+
+- name: $s500
+  value: 20
+
+- name: $s600
+  value: 24
+
+- name: $s800
+  value: 32
+
+- name: $s1000
+  value: 40
+
+- name: $s1200
+  value: 48
+
+- name: $s1600
+  value: 64
+
+- name: $s2000
+  value: 80
