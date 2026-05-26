@@ -458,3 +458,58 @@
   value:
     light: '#ffffff1a'
     dark: '#ffffff1a'
+- name: $glass.primary
+  description: ''
+  value:
+    light: '#FFFFFF80'
+    dark: '#77849D1F'
+- name: $glass.secondary
+  description: ''
+  value:
+    light: '#F0F3F580'
+    dark: '#77849D1F'
+- name: $glass.disabled
+  description: ''
+  value:
+    light: '#E2E6ED99'
+    dark: '#323C4E99'
+- name: $glass.active
+  description: ''
+  value:
+    light: '#202632CC'
+    dark: '#FFFFFFCC'
+- name: $glass.primary_fake_invert
+  description: ''
+  value:
+    light: '#77849D1F'
+    dark: '#77849D1F'
+- name: $glass.secondary_fake_invert
+  description: ''
+  value:
+    light: '#77849D1F'
+    dark: '#77849D1F'
+- name: $glass.disabled_fake_invert
+  description: ''
+  value:
+    light: '#323C4E99'
+    dark: '#323C4E99'
+- name: $glass.active_fake_invert
+  description: ''
+  value:
+    light: '#FFFFFFCC'
+    dark: '#FFFFFFCC'
+- name: $glass.brand
+  description: ''
+  value:
+    light: '#FFC800CC'
+    dark: '#FFC800CC'
+- name: $glass.error
+  description: ''
+  value:
+    light: '#F84A00CC'
+    dark: '#F84A00B3'
+- name: $shadow.primary
+  description: ''
+  value:
+    light: '#181C2314'
+    dark: '#181C234D'
